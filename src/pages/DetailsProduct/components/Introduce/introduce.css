@@ -1,0 +1,24 @@
+.wrap-introduce{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.productName{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.category-item{
+    display: flex;
+}
+
+.category-item .item-title{
+    width: 120px;
+    color: #A9A9A9;
+}
+
+.introduce-content{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,17 @@
+.wrap-category .category-title{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
+.wrap-category .category-item:hover span{
+    color: #6A983C;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.wrap-category .active span{
+    color: #6A983C;
+    font-weight: 500;
+}

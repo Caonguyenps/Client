@@ -1,0 +1,18 @@
+.wrap-address {
+  width: 95%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #e4e3e3;
+  border-radius: 4px;
+  position: relative;
+}
+
+.icon-delete {
+  position: absolute;
+  right: 2%;
+  top: 5%;
+  color: red;
+}
+.icon-delete:hover {
+  cursor: pointer;
+}

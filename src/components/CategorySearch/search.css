@@ -1,0 +1,15 @@
+.MuiPaper-elevation1 {
+    box-shadow: none !important;
+    border: 1px solid #D1D1D1;
+    background: #F9F9F9 !important; 
+}
+
+.MuiInput-underline:before {
+    display: none;
+}
+.MuiIconButton-root:hover {
+    background-color: #F9F9F9 !important;
+}
+.MuiIconButton-root{
+    height: 100%;
+}

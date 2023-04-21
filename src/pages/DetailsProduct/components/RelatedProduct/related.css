@@ -1,0 +1,17 @@
+.related-product .related-show-product {
+  margin-top: 20px;
+}
+
+.related-product button {
+  width: 160px;
+  height: 40px;
+  background-color: #6a983c;
+  border-radius: 10px;
+  font-weight: 500;
+  color: white;
+}
+
+.related-product button:hover {
+  background-color: #c07f36;
+  cursor: pointer;
+}

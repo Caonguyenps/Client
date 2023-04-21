@@ -1,0 +1,57 @@
+.input {
+  width: 100%;
+  margin: 0 auto;
+  border: 1px solid #d1d1d1;
+  border-bottom: 0px;
+  border-radius: 12px;
+}
+
+.input .MuiFilledInput-underline:before {
+  border-radius: 12px;
+  border-bottom: 1px solid #d1d1d1;
+}
+.input .MuiFilledInput-underline:after {
+  display: none;
+}
+
+.input .MuiFilledInput-input {
+  padding: 10px 12px 10px;
+}
+.input .MuiFilledInput-root {
+  height: 42px;
+}
+.MuiInputAdornment-positionStart {
+  width: 190px;
+  height: 24px !important;
+  text-align: center;
+  border-right: 1px solid #b8b7b7;
+}
+
+
+.input .MuiFilledInput-root:hover {
+  background: #F9F9F9 !important;
+}
+
+.input .MuiFilledInput-root {
+  background-color: #F9F9F9;
+  border-radius: 12px;
+}
+
+
+.input .MuiFilledInput-input:-webkit-autofill {
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+
+}
+.input .Mui-focused{
+  background: none !important;
+}
+
+.input .MuiTypography-colorTextSecondary {
+  width: 100%;
+  color: black;
+  font-weight: 500;
+}
+.input .MuiFilledInput-underline:hover:before {
+  border-bottom: 1px solid #d1d1d1;
+} 

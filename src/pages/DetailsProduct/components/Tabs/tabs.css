@@ -1,0 +1,54 @@
+.wrap-tabs{
+    margin-top: 50px !important;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.wrap-tabs .MuiAppBar-colorDefault {
+    background-color: white !important;
+}
+
+.wrap-tabs .MuiPaper-elevation4 {
+    box-shadow: none !important;
+}
+.wrap-tabs .MuiTab-wrapper {
+    display: inline !important;
+}
+.wrap-tabs .MuiTab-root {
+    text-align: left;
+}
+
+.wrap-tabs button:focus {
+    outline: none !important;
+}
+
+.wrap-tabs .MuiTab-textColorPrimary.Mui-selected {
+    color: black;
+    font-weight: 500;
+}
+
+.wrap-tabs .PrivateTabIndicator-colorPrimary-9 {
+    background-color: #6A983C;
+}
+
+.wrap-tabs .description-content{
+    width: 100%;
+    height: 300px;
+}
+
+.description-content::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+.description-content::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+.description-content::-webkit-scrollbar-thumb
+{
+	background-color: #6A983C;
+}

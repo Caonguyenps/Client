@@ -1,0 +1,21 @@
+.category{
+    width: 100%;
+}
+
+.category .category-title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.category .category-item{
+    margin-top: 12px;
+}
+.category .category-item span{
+    color: #6A983C;
+    border-bottom: 1px solid #6A983C;
+}
+
+.category .category-item:hover{
+    cursor: pointer;
+    font-weight: 600;
+}

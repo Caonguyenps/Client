@@ -1,0 +1,77 @@
+.wrap-register {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 100px;
+  /* background-image: url("https://static.vecteezy.com/system/resources/previews/004/968/002/large_2x/cute-abstract-modern-background-free-vector.jpg"); */
+}
+.account-form {
+  padding-top: 32px;
+}
+
+.account-form .wrap-btn {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.account-form .bottom-form {
+  width: 718px;
+  margin: 0 auto;
+  display: table;
+}
+
+.account-form .bottom-form .btn-left {
+  float: left;
+  color: #6a983c;
+  padding-top: 15px;
+}
+
+.account-form .bottom-form .btn-right {
+  float: right;
+  color: #6a983c;
+  padding-top: 15px;
+}
+
+.wrap-form {
+  margin-top: 30px;
+}
+
+.wrap-input {
+  width: 718px;
+  margin: 0 auto;
+  height: 80px;
+}
+
+.wrap-input .msg-error {
+  color: red;
+  font-size: 14px;
+  padding-left: 20px;
+}
+
+.wrap-title {
+  margin-top: 20px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.wrap-title .title-time {
+  color: red;
+}
+
+.wrap-title .time span {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.wrap-btn-form {
+  padding-top: 15px;
+  margin-top: 10px;
+  color: blue;
+}
+.wrap-btn-form span:hover {
+  border-bottom: 1px solid blue;
+  cursor: pointer;
+}
+.item-right {
+  float: right;
+}

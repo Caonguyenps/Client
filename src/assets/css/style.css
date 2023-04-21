@@ -1,0 +1,16 @@
+.wrap-body {
+  width: 1260px;
+  margin: 0 auto;
+}
+
+.body-content {
+  min-height: 500px;
+}
+
+.wrap-content-right {
+  padding: 10px;
+}
+
+.content-right {
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 13%);
+}

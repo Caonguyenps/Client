@@ -1,0 +1,31 @@
+.wrap-banner {
+  width: 317px;
+  height: 200px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.wrap-banner img {
+  object-fit: cover;
+}
+
+.wrap-banner .content-banner {
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  position: absolute;
+  padding-top: 38px;
+  padding-left: 33px;
+}
+
+.wrap-banner .content-banner .title-content {
+  color: #6a983c;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.wrap-banner .content-banner .text-content {
+  font-weight: 500;
+  font-size: 20px;
+  height: 90px;
+}

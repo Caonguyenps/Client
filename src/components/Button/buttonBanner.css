@@ -1,0 +1,19 @@
+.btn-banner{
+    width: 140px;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #92C064;
+    border-radius: 8px;
+    font-weight: 500;
+}
+.btn-banner i{
+    font-size: 12px;
+    margin-left: 6px;
+}
+
+.btn-banner:hover{
+    background-color: #92C064 ;
+    color: white;
+    transition: all 300ms;
+    cursor: pointer;
+}

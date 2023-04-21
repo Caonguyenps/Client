@@ -1,0 +1,33 @@
+.modal-img {
+  width: 25%;
+  margin: 0 auto;
+}
+
+.modal-title {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.choose-address:hover {
+  background-color: rgb(74, 74, 199);
+  color: white;
+  cursor: pointer;
+}
+
+.address-active {
+  background-color: rgb(74, 74, 199) !important;
+  color: white;
+  cursor: pointer;
+}
+
+.choose-address {
+  background-color: #ccc;
+  padding: 20px;
+  min-height: 160px;
+  width: 95%;
+  border-radius: 5px;
+  margin: 0 auto;
+}

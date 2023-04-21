@@ -1,0 +1,34 @@
+.views-item{
+    display: inline-block;
+    color: #A9A9A9;
+}
+.views-item span{
+    font-size: 16px;
+}
+.views-icon{
+    font-size: 14px !important;
+    margin-top: 10px !important;
+    margin-right: 5px;
+}
+
+.views-item:hover{
+    cursor: pointer;
+    color: #6A983C;
+}
+
+.active span{
+    color: black;
+    font-weight: 500;
+}
+
+.active .views-icon{
+    color: #6A983C;
+}
+
+.count-product{
+    padding: 3px 8px 3px 8px;
+    margin-right: 5px;
+    background-color: #F4F8EC;
+    border-radius: 12px;
+    color: #6A983C;
+}

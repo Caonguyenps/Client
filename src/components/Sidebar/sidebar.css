@@ -1,0 +1,20 @@
+.wrap-sidebar{
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.wrap-sidebar .sidebar-item{
+    display: flex;
+    margin-top: 15px;
+    font-size: 17px;
+}
+
+.wrap-sidebar .sidebar-item:hover{
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.wrap-sidebar .item-active{
+    font-weight: 700;
+}

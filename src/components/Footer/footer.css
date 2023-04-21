@@ -1,0 +1,137 @@
+#footer {
+  height: 300px;
+  background-color: #ccc;
+  margin-top: 20px;
+  bottom: 0;
+  background-color: white;
+  padding: 20px;
+}
+
+.header-logo {
+  width: 177px;
+}
+
+.header-logo:hover {
+  cursor: pointer;
+}
+.header-logo img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+
+#footer .footer-content-left-name {
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+  width: 380px;
+  height: 27px;
+}
+#footer .content-item {
+  font-size: 18px;
+  color: #6e7673;
+  font-weight: 500;
+  width: 472px;
+  height: 24px;
+  padding-bottom: 20px;
+}
+
+.content-item-1 {
+  font-size: 18px;
+  color: #6e7673;
+  font-weight: 500;
+  width: 500px;
+  height: 24px;
+  padding-bottom: 25px;
+  padding-top: 50px;
+}
+
+#footer .footer-content-left .content-item span {
+  text-align: center;
+  margin-left: 10px;
+}
+
+#footer .wrap-body {
+  padding-top: 15px;
+}
+
+#footer .footer-content-left-name-1 {
+  margin-top: 46px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #000000;
+  width: 367px;
+  height: 27px;
+  display: table;
+}
+#footer .content-item-address-1 {
+  width: 440px;
+  height: 24px;
+  font-size: 18px;
+  color: #6e7673;
+  margin-top: 1.5rem;
+}
+#footer .content-item-address-1 span {
+  margin-left: 10px;
+  text-align: center;
+}
+#footer .content-item-address-1-1 {
+  width: 440px;
+  height: 24px;
+  font-size: 18px;
+  color: #6e7673;
+}
+#footer .content-item-address-1-1 span {
+  margin-left: 10px;
+  text-align: center;
+}
+
+#footer .footer-logo {
+  height: 100%;
+  width: 15%;
+  display: inline-block;
+}
+#footer .footer-logo-right {
+  width: 100%;
+  height: 100%;
+  display: table;
+  text-align: center;
+}
+#footer .footer-bottom-logo {
+  width: 172px;
+  height: 65px;
+  position: absolute;
+  vertical-align: middle;
+}
+#footer .footer-content-right-1 {
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #000000;
+  width: 367px;
+  height: 27px;
+  display: table-cell;
+  vertical-align: middle;
+}
+#footer .footer-content-right-bottom {
+  margin-top: 1.5rem;
+}
+
+#footer .footer-item-1 span {
+  width: 202px;
+  height: 24px;
+  font-size: 18px;
+  color: #6e7673;
+}
+#footer .footer-content-right {
+  float: right;
+}
+.icon {
+  float: right;
+}
+.content-item span {
+  margin-left: 10px;
+}
+.content-item-1 span {
+  margin-left: 10px;
+}

@@ -1,0 +1,11 @@
+.wrap-pagi{
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.wrap-pagi .MuiPaginationItem-page.Mui-selected {
+    background-color: #6A983C;
+    color: white;
+}
+
